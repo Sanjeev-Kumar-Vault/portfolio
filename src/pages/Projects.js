@@ -1,5 +1,5 @@
 import { FaGithub,FaVideo } from "react-icons/fa"
-import { useState } from "react/cjs/react.development"
+import { useState } from "react"
 import { Project } from "../data/Project"
 const Projects = () =>{
      // eslint-disable-next-line
