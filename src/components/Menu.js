@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { Navbar } from '../data/Navbar';
 const Menu =()=>{
     const [open, setOpen]=useState(false);
+     // eslint-disable-next-line
     const [links,setLinks]=useState(Navbar);
     return(
         <>

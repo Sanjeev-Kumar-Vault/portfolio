@@ -2,6 +2,7 @@ import { FaGithub,FaVideo } from "react-icons/fa"
 import { useState } from "react/cjs/react.development"
 import { Project } from "../data/Project"
 const Projects = () =>{
+     // eslint-disable-next-line
     const [cards,setCards]=useState(Project);
     return(
         <>

@@ -7,10 +7,10 @@ const Homepage =()=>{
                 <p>Front-end Web Developer</p>
                 <ul>
                     <li>
-                        <a href="https://www.linkedin.com/in/sanjeev-kumar-247770119/" target="_blank" rel ="noopennernoreferrer"><FaLinkedin /></a>
+                        <a href="https://www.linkedin.com/in/sanjeev-kumar-247770119/" target="_blank" rel ="noopenner noreferrer"><FaLinkedin /></a>
                     </li>
                     <li>
-                        <a href="https://github.com/Sanjeev-Kumar-Vault" target="_blank" rel ="noopennernoreferrer"><FaGithub /></a>
+                        <a href="https://github.com/Sanjeev-Kumar-Vault" target="_blank" rel ="noopenner noreferrer"><FaGithub /></a>
                     </li>
                 </ul>
 
