@@ -8,7 +8,7 @@ const Skills =() =>{
                     {
                         skill.map(({id,name,image})=>{
                             return<article className="Card">
-                                <img src={image}/>
+                                <img src={image} alt =""/>
                                 <p>{name}</p>
                             </article>
                         })
