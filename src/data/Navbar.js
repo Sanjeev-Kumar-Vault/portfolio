@@ -14,5 +14,10 @@ export const Navbar= [
         id :3,
         name : 'Contact',
         url : '/contact'
+    },
+    {
+        id :4,
+        name : 'Skills',
+        url : '/skills'
     }
 ]

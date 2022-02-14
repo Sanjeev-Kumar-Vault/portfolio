@@ -4,6 +4,7 @@ import Projects from './pages/Projects';
 import Error from './pages/Error';
 import Menu from './components/Menu'
 import Contact from './pages/Contact';
+import Skills from './pages/Skills';
 
 const  App = ()=> {
   return (
@@ -17,6 +18,8 @@ const  App = ()=> {
         <Route path="/contact" element={<Contact />}>       
         </Route>
         <Route path ="*" element={<Error />}>
+        </Route>
+        <Route path ="/skills" element={<Skills />}>
         </Route>
       </Routes>
      </BrowserRouter>
